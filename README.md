@@ -1,6 +1,6 @@
-I'm a product manager who builds AI products on the side.
+I'm a product manager who builds AI products at work and on the side.
 
-By day I work in logistics and operations, designing systems that move physical things more efficiently. By night I ship software that solves problems I care about personally.
+By day I work in logistics and operations, designing systems that move physical things more efficiently using AI. By night I ship software that solves problems I care about personally.
 
 **Currently building:**
 
